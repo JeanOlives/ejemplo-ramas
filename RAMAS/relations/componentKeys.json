@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_AFCL2PRLH_695": {
+			"name": "EntidadAFCL2"
+		},
 		"EN_AFCLQTCAL_778": {
 			"name": "EntidadAFCL"
 		},
@@ -46,6 +49,9 @@
 			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
+			},
+			"T_RAMASPEBYVJGI_145": {
+				"name": "FormularioAFCL2"
 			},
 			"T_RAMASUGLZUERT_291": {
 				"name": "FormularioVPI"
