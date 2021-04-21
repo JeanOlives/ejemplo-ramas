@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_AFCLQTCAL_778": {
+			"name": "EntidadAFCL"
+		},
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
@@ -16,6 +19,9 @@
 		"Forms": {
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
+			},
+			"T_RAMASIQEUUSIE_883": {
+				"name": "FormularioAFCL"
 			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
