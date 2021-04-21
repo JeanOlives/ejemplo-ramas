@@ -2,6 +2,22 @@
 	"Entities": {
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
+		},
+		"EN_VPIWJIGBL_824": {
+			"name": "EntidadVPI"
+		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASUGLZUERT_291": {
+				"name": "FormularioVPI"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
 		}
 	}
 }

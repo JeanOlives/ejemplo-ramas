@@ -5,9 +5,39 @@
 		"EN_DSYQTOHUW_411": {
 			"labels": [
 			]
+		},
+		"EN_VPIWJIGBL_824": {
+			"labels": [
+			]
 		}
 	},
 	"Forms": {
+		"T_RAMASUGLZUERT_291": {
+			"blis": [
+			],
+			"entities": {
+				"EN_VPIWJIGBL_824": [
+					"AT19_EDADNVZF824",
+					"AT62_NOMBREET824",
+					"AT66_APELLIOD824"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_82925",
+				"LBL_RAMAS_EDADGJPLI_61573",
+				"LBL_RAMAS_NOMBREDPD_84769"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}
