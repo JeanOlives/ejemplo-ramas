@@ -81,37 +81,6 @@
 							{
 								"aggregate": null,
 								"aggregateId": null,
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"include": 4095,
-								"isCustomized": false,
-								"maxRecords": null,
-								"name": "Spacer2308",
-								"options": 0,
-								"order": 4,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"userControl": {
-									"type": "I",
-									"userControlId": "Spacer"
-								},
-								"visible": 4095,
-								"visualAttributeId": "Spacer2308",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
 								"attribute": {
 									"$ref": "../../../../RAMAS/entities/EN_ARCMDPZRU_839.json#/attributes/AT26_APELLIDO839"
 								},
@@ -158,7 +127,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCMDPZRU_839.json#/attributes/AT72_EDADADPV839"
+									"$ref": "../../../../RAMAS/entities/EN_ARCMDPZRU_839.json#/attributes/AT72_EDADNMXF839"
 								},
 								"attributeValidations": [
 								],
@@ -195,7 +164,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADJHVGFJOWGYD_250396",
+								"visualAttributeId": "VA_EDADGXKQLCUFRKE_780396",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -270,7 +239,7 @@
 								"maxRecords": null,
 								"name": "VA_VABUTTONAKCJYKJ_619396",
 								"options": 0,
-								"order": 5,
+								"order": 4,
 								"queryModule": null,
 								"queryVersion": null,
 								"responsiveLayouts": null,
