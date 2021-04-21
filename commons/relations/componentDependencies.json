@@ -6,10 +6,6 @@
 			"labels": [
 			]
 		},
-		"EN_ARCKLSJBA_750": {
-			"labels": [
-			]
-		},
 		"EN_BDFRJRWGQ_133": {
 			"labels": [
 			]
@@ -53,29 +49,6 @@
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
 				"LBL_RAMAS_NOMBREKBE_19146"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
-		"T_RAMASGTUVFJSM_973": {
-			"blis": [
-			],
-			"entities": {
-				"EN_ARCKLSJBA_750": [
-					"AT14_APELLIOO750",
-					"AT19_EDADCNZF750",
-					"AT93_NOMBREDV750"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
 			],
 			"queries": {
 			},
