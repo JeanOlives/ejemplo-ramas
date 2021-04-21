@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ARCKLSJBA_750": {
+			"name": "EntidadARC"
+		},
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
@@ -17,6 +20,9 @@
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
 			},
+			"T_RAMASGTUVFJSM_973": {
+				"name": "FormularioARC"
+      },
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
 			}

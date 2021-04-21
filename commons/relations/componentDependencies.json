@@ -2,7 +2,13 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+
+		"EN_ARCKLSJBA_750": {
+			"labels": [
+			]
+		},
     "EN_CLIENTEFL_530": {
+
 			"labels": [
 			]
 		},
@@ -76,6 +82,16 @@
 			"subForms": [
 			]
 		},
+		"T_RAMASGTUVFJSM_973": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ARCKLSJBA_750": [
+					"AT14_APELLIOO750",
+					"AT19_EDADCNZF750",
+					"AT93_NOMBREDV750"
+          ]
+          },
 		"T_RAMASNSCTIMAB_179": {
 			"blis": [
 			],
@@ -93,6 +109,10 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_RAMAS_APELLIDOO_18503",
+				"LBL_RAMAS_EDADKHOGI_67165",
+				"LBL_RAMAS_GUARDARHZ_54189",
+				"LBL_RAMAS_NOMBREWLL_45617",
 				"LBL_RAMAS_APELLIDOO_49498",
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
