@@ -1,5 +1,9 @@
 {
 	"Entities": {
+<<<<<<< HEAD
+		"EN_MAPLGOHEG_299": {
+			"name": "EntidadMAPL"
+=======
 		"EN_AFCL2PRLH_695": {
 			"name": "EntidadAFCL2"
 		},
@@ -41,12 +45,17 @@
 		},
 		"EN_VPIWJIGBL_824": {
 			"name": "EntidadVPI"
+>>>>>>> 1303b6c62f6d9a1774b4032126bb47f9b56202b2
 		}
 	},
 	"FRMRM": {
 		"CompositeForms": {
 		},
 		"Forms": {
+<<<<<<< HEAD
+			"T_RAMASECWLKROV_360": {
+				"name": "FormularioMAPL"
+=======
 			"T_RAMASDVLKQJNM_458": {
 				"name": "FormularioARC"
 			},
@@ -88,6 +97,7 @@
 			},
 			"T_RAMASXHEKRLJP_715": {
 				"name": "FormularioOFV"
+>>>>>>> 1303b6c62f6d9a1774b4032126bb47f9b56202b2
 			}
 		},
 		"Queries": {
