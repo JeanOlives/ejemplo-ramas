@@ -12,6 +12,9 @@
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
+		"EN_DANTQRAAK_991": {
+			"name": "EntidadDANT"
+		},
 		"EN_DGZBFJKWX_480": {
 			"name": "EntidadDGZ"
 		},
@@ -37,6 +40,12 @@
 			},
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
+			},
+			"T_RAMASGTUVFJSM_973": {
+				"name": "FormularioARC"
+			},
+			"T_RAMASHEIAETCL_142": {
+				"name": "FormularioDANT"
 			},
 			"T_RAMASIQEUUSIE_883": {
 				"name": "FormularioAFCL"

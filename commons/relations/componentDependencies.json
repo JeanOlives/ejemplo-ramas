@@ -18,6 +18,10 @@
 			"labels": [
 			]
 		},
+		"EN_DANTQRAAK_991": {
+			"labels": [
+			]
+		},
 		"EN_DGZBFJKWX_480": {
 			"labels": [
 			]
@@ -88,6 +92,33 @@
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
 				"LBL_RAMAS_NOMBREKBE_19146"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASHEIAETCL_142": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DANTQRAAK_991": [
+					"AT28_NOMBRETK991",
+					"AT31_EDADAQMU991",
+					"AT82_APELLIOO991"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_GUARDARKW_41813",
+				"LBL_RAMAS_NOMBREVXT_41612"
 			],
 			"queries": {
 			},
