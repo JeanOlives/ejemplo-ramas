@@ -13,15 +13,15 @@
 	"id": {
 		"moduleId": "RAMAS",
 		"subModuleId": "FRMRM",
-		"taskId": "T_RAMASGTUVFJSM_973",
+		"taskId": "T_RAMASDVLKQJNM_458",
 		"version": "1.0.0"
 	},
 	"isCustomized": false,
 	"isImported": false,
-	"mainViewContainerId": "VC_ARCBTNWWWX_547973",
+	"mainViewContainerId": "VC_ARCJKLFTHM_220458",
 	"modeEnabled": 4095,
 	"name": {
-		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASGTUVFJSM_973/name"
+		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASDVLKQJNM_458/name"
 	},
 	"setFocus": false,
 	"tempSaveStr": "F",
@@ -40,9 +40,9 @@
 			"id": {
 				"moduleId": "RAMAS",
 				"subModuleId": "FRMRM",
-				"taskId": "T_RAMASGTUVFJSM_973",
+				"taskId": "T_RAMASDVLKQJNM_458",
 				"taskVersion": "1.0.0",
-				"viewContainerId": "VC_ARCBTNWWWX_547973"
+				"viewContainerId": "VC_ARCJKLFTHM_220458"
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
@@ -62,15 +62,15 @@
 						],
 						"enabled": 4095,
 						"entity": {
-							"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#"
+							"$ref": "../../../../RAMAS/entities/EN_ARCGIHOAT_861.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_ARCDPWLWIV_820375",
+						"groupId": "G_ARCQBODRGZ_591585",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1376",
+						"name": "Group1504",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -93,7 +93,7 @@
 								"include": 4095,
 								"isCustomized": false,
 								"maxRecords": null,
-								"name": "Spacer1547",
+								"name": "Spacer2637",
 								"options": 0,
 								"order": 4,
 								"responsiveLayouts": null,
@@ -105,7 +105,7 @@
 									"userControlId": "Spacer"
 								},
 								"visible": 4095,
-								"visualAttributeId": "Spacer1547",
+								"visualAttributeId": "Spacer2637",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -113,7 +113,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT14_APELLIOO750"
+									"$ref": "../../../../RAMAS/entities/EN_ARCGIHOAT_861.json#/attributes/AT95_APELLIDD861"
 								},
 								"attributeValidations": [
 								],
@@ -130,9 +130,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_18503"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_87381"
 									},
-									"labelId": "LBL_RAMAS_APELLIDOO_18503",
+									"labelId": "LBL_RAMAS_APELLIDOO_87381",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -150,7 +150,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_APELLIDOALMVIYE_890375",
+								"visualAttributeId": "VA_APELLIDOPQOLUFF_541585",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -158,7 +158,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT19_EDADCNZF750"
+									"$ref": "../../../../RAMAS/entities/EN_ARCGIHOAT_861.json#/attributes/AT15_EDADSVSR861"
 								},
 								"attributeValidations": [
 								],
@@ -175,9 +175,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADKHOGI_67165"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADNWGOV_48100"
 									},
-									"labelId": "LBL_RAMAS_EDADKHOGI_67165",
+									"labelId": "LBL_RAMAS_EDADNWGOV_48100",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -195,7 +195,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADPYUSKELIUUG_943375",
+								"visualAttributeId": "VA_EDADPLVMAEQGNDD_491585",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -203,7 +203,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT93_NOMBREDV750"
+									"$ref": "../../../../RAMAS/entities/EN_ARCGIHOAT_861.json#/attributes/AT20_NOMBRELS861"
 								},
 								"attributeValidations": [
 								],
@@ -220,9 +220,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREWLL_45617"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREQJD_61189"
 									},
-									"labelId": "LBL_RAMAS_NOMBREWLL_45617",
+									"labelId": "LBL_RAMAS_NOMBREQJD_61189",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -240,7 +240,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBREELRTXUTVC_879375",
+								"visualAttributeId": "VA_NOMBREGXJNCZMND_280585",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -262,13 +262,13 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARHZ_54189"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARKW_41813"
 									},
-									"labelId": "LBL_RAMAS_GUARDARHZ_54189",
+									"labelId": "LBL_RAMAS_GUARDARKW_41813",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONQXCJCCS_169375",
+								"name": "VA_VABUTTONPEHJTPV_300585",
 								"options": 0,
 								"order": 5,
 								"queryModule": null,
@@ -282,7 +282,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONQXCJCCS_169375",
+								"visualAttributeId": "VA_VABUTTONPEHJTPV_300585",
 								"width": null,
 								"widthComposite": "D"
 							}
@@ -291,7 +291,7 @@
 				],
 				"id": {
 					"version": "1.0.0",
-					"viewId": "VW_ARCGXFGTDN_375"
+					"viewId": "VW_ARCZIRVUYC_585"
 				},
 				"metadataVersion": "7.2.0.2024 BETA",
 				"modules": [
