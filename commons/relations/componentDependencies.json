@@ -6,20 +6,11 @@
 			"labels": [
 			]
 		},
-
 		"EN_ARCKLSJBA_750": {
 			"labels": [
 			]
 		},
-    "EN_CLIENTEFL_530": {
-			"labels": [
-			]
-		},
 		"EN_BDFRJRWGQ_133": {
-			"labels": [
-			]
-		},
-		"EN_CLIENTEFL_530": {
 			"labels": [
 			]
 		},
@@ -28,6 +19,14 @@
 			]
 		},
 		"EN_JCGRNQHXP_764": {
+			"labels": [
+			]
+		},
+		"EN_JCOBMSZIE_939": {
+			"labels": [
+			]
+		},
+		"EN_VPIWJIGBL_824": {
 			"labels": [
 			]
 		}
@@ -54,6 +53,29 @@
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
 				"LBL_RAMAS_NOMBREKBE_19146"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASGTUVFJSM_973": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ARCKLSJBA_750": [
+					"AT14_APELLIOO750",
+					"AT19_EDADCNZF750",
+					"AT93_NOMBREDV750"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
 			],
 			"queries": {
 			},
@@ -87,16 +109,33 @@
 			"subForms": [
 			]
 		},
-		"T_RAMASGTUVFJSM_973": {
+		"T_RAMASKIXXPBYA_324": {
 			"blis": [
 			],
 			"entities": {
-				"EN_ARCKLSJBA_750": [
-					"AT14_APELLIOO750",
-					"AT19_EDADCNZF750",
-					"AT93_NOMBREDV750"
-          ]
-          },
+				"EN_JCOBMSZIE_939": [
+					"AT21_APELLIDD939",
+					"AT25_EDADHUPJ939",
+					"AT59_NOMBREZS939"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_NOMBREVXT_41612",
+				"LBL_RAMAS_REGISTRAR_90177"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASNSCTIMAB_179": {
 			"blis": [
 			],
@@ -115,13 +154,13 @@
 			],
 			"labels": [
 				"LBL_RAMAS_APELLIDOO_18503",
-				"LBL_RAMAS_EDADKHOGI_67165",
-				"LBL_RAMAS_GUARDARHZ_54189",
-				"LBL_RAMAS_NOMBREWLL_45617",
 				"LBL_RAMAS_APELLIDOO_49498",
+				"LBL_RAMAS_EDADKHOGI_67165",
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
-				"LBL_RAMAS_NOMBREKBE_19146"
+				"LBL_RAMAS_GUARDARHZ_54189",
+				"LBL_RAMAS_NOMBREKBE_19146",
+				"LBL_RAMAS_NOMBREWLL_45617"
 			],
 			"queries": {
 			},
@@ -149,6 +188,32 @@
 				"LBL_RAMAS_EDADJLPVS_15774",
 				"LBL_RAMAS_GUARDARVL_90628",
 				"LBL_RAMAS_NOMBREEHK_96401"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASUGLZUERT_291": {
+			"blis": [
+			],
+			"entities": {
+				"EN_VPIWJIGBL_824": [
+					"AT19_EDADNVZF824",
+					"AT62_NOMBREET824",
+					"AT66_APELLIOD824"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_82925",
+				"LBL_RAMAS_EDADGJPLI_61573",
+				"LBL_RAMAS_NOMBREDPD_84769"
 			],
 			"queries": {
 			},
