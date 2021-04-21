@@ -50,6 +50,10 @@
 			"labels": [
 			]
 		},
+		"EN_JESVWEGTD_791": {
+			"labels": [
+			]
+		},
 		"EN_OFVARFCLF_632": {
 			"labels": [
 			]
@@ -212,6 +216,33 @@
 				"LBL_RAMAS_EDADZVLVC_81915",
 				"LBL_RAMAS_NOMBREVXT_41612",
 				"LBL_RAMAS_REGISTRAR_90177"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASMUTQWFWM_891": {
+			"blis": [
+			],
+			"entities": {
+				"EN_JESVWEGTD_791": [
+					"AT58_APELLIOD791",
+					"AT73_NOMBREUZ791",
+					"AT80_EDADMHXE791"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_87381",
+				"LBL_RAMAS_EDADNWGOV_48100",
+				"LBL_RAMAS_GUARDARKW_41813",
+				"LBL_RAMAS_NOMBREQJD_61189"
 			],
 			"queries": {
 			},
