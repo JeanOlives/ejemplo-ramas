@@ -10,11 +10,11 @@
 			"labels": [
 			]
 		},
-		"EN_CLIENTEFL_530": {
+		"EN_BDFRJRWGQ_133": {
 			"labels": [
 			]
 		},
-		"EN_BDFRJRWGQ_133": {
+		"EN_CLIENTEFL_530": {
 			"labels": [
 			]
 		},
@@ -55,6 +55,29 @@
 			"subForms": [
 			]
 		},
+		"T_RAMASGTUVFJSM_973": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ARCKLSJBA_750": [
+					"AT14_APELLIOO750",
+					"AT19_EDADCNZF750",
+					"AT93_NOMBREDV750"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASIQEUUSIE_883": {
 			"blis": [
 			],
@@ -82,28 +105,6 @@
 			"subForms": [
 			]
 		},
-		"T_RAMASGTUVFJSM_973": {
-			"blis": [
-			],
-			"entities": {
-				"EN_ARCKLSJBA_750": [
-					"AT14_APELLIOO750",
-					"AT19_EDADCNZF750",
-					"AT93_NOMBREDV750"
-          ]},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-          },
 		"T_RAMASNSCTIMAB_179": {
 			"blis": [
 			],
@@ -122,13 +123,13 @@
 			],
 			"labels": [
 				"LBL_RAMAS_APELLIDOO_18503",
-				"LBL_RAMAS_EDADKHOGI_67165",
-				"LBL_RAMAS_GUARDARHZ_54189",
-				"LBL_RAMAS_NOMBREWLL_45617",
 				"LBL_RAMAS_APELLIDOO_49498",
+				"LBL_RAMAS_EDADKHOGI_67165",
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
-				"LBL_RAMAS_NOMBREKBE_19146"
+				"LBL_RAMAS_GUARDARHZ_54189",
+				"LBL_RAMAS_NOMBREKBE_19146",
+				"LBL_RAMAS_NOMBREWLL_45617"
 			],
 			"queries": {
 			},
@@ -155,6 +156,32 @@
 				"LBL_RAMAS_APELLIDOO_50951",
 				"LBL_RAMAS_EDADJLPVS_15774",
 				"LBL_RAMAS_GUARDARVL_90628",
+				"LBL_RAMAS_NOMBREEHK_96401"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASWTMKCRDZ_604": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DSYQTOHUW_411": [
+					"AT13_APELLIDO411",
+					"AT32_EDADFVLC411",
+					"AT61_NOMBREUO411"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_49498",
+				"LBL_RAMAS_EDADJLPVS_15774",
 				"LBL_RAMAS_NOMBREEHK_96401"
 			],
 			"queries": {
