@@ -1,0 +1,29 @@
+{
+	"Entities": {
+		"EN_BDFRJRWGQ_133": {
+			"name": "EntidadBDF"
+		},
+		"EN_DSYQTOHUW_411": {
+			"name": "EntidadDSY"
+		},
+		"EN_JCGRNQHXP_764": {
+			"name": "EntidadJCGR"
+		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASFCBKILOH_733": {
+				"name": "FormularioBDF"
+			},
+			"T_RAMASNSCTIMAB_179": {
+				"name": "FormularioJCGR"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
