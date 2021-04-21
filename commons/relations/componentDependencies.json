@@ -6,6 +6,10 @@
 			"labels": [
 			]
 		},
+		"EN_DGZJBGWBX_771": {
+			"labels": [
+			]
+		},
 		"EN_DSYQTOHUW_411": {
 			"labels": [
 			]
@@ -32,6 +36,32 @@
 				"LBL_RAMAS_APELLIDOO_49498",
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
+				"LBL_RAMAS_NOMBREKBE_19146"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASIIISKHOB_950": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DGZJBGWBX_771": [
+					"AT17_EDADXSIU771",
+					"AT45_APELLIDD771",
+					"AT75_NOMBREUB771"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_49498",
+				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_NOMBREKBE_19146"
 			],
 			"queries": {
