@@ -3,6 +3,9 @@
 		"EN_AFCLQTCAL_778": {
 			"name": "EntidadAFCL"
 		},
+		"EN_ARCGIHOAT_861": {
+			"name": "EntidadARC"
+		},
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
@@ -23,6 +26,9 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_RAMASDVLKQJNM_458": {
+				"name": "FormularioARC"
+			},
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
 			},
