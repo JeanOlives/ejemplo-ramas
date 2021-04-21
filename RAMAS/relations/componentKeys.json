@@ -15,6 +15,9 @@
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
+		"EN_DMPPBPSVC_613": {
+			"name": "EntidadDMP"
+		},
 		"EN_DANTQRAAK_991": {
 			"name": "EntidadDANT"
 		},
@@ -64,6 +67,9 @@
 			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
+			},
+			"T_RAMASVWTCVIYT_973": {
+				"name": "FormularioDMP"
 			},
 			"T_RAMASPEBYVJGI_145": {
 				"name": "FormularioAFCL2"
