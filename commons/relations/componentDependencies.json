@@ -14,6 +14,10 @@
 			"labels": [
 			]
 		},
+		"EN_DGZBFJKWX_480": {
+			"labels": [
+			]
+		},
 		"EN_DSYQTOHUW_411": {
 			"labels": [
 			]
@@ -134,6 +138,32 @@
 				"LBL_RAMAS_EDADZVLVC_81915",
 				"LBL_RAMAS_NOMBREVXT_41612",
 				"LBL_RAMAS_REGISTRAR_90177"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASMXKHLXWX_798": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DGZBFJKWX_480": [
+					"AT35_NOMBREHJ480",
+					"AT66_APELLIOO480",
+					"AT79_EDADROIL480"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_NOMBREVXT_41612"
 			],
 			"queries": {
 			},

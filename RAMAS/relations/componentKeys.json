@@ -9,6 +9,9 @@
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
+		"EN_DGZBFJKWX_480": {
+			"name": "EntidadDGZ"
+		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
 		},
@@ -37,6 +40,9 @@
 			},
 			"T_RAMASKIXXPBYA_324": {
 				"name": "FormularioJCO"
+			},
+			"T_RAMASMXKHLXWX_798": {
+				"name": "FormularioDGZ"
 			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
