@@ -1,16 +1,24 @@
 {
 	"Entities": {
+
+		"EN_AFCLQTCAL_778": {
+			"name": "EntidadAFCL"
+    },
+		"EN_ARCKLSJBA_750": {
+			"name": "EntidadARC"
+
+		},
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
-		"EN_DGZJBGWBX_771": {
-			"name": "EntidadDGZ"
-    },
-		"EN_DANTPWPWM_883": {
-			"name": "EntidadDANT"
-		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
+		},
+		"EN_JCGRNQHXP_764": {
+			"name": "EntidadJCGR"
+		},
+		"EN_VPIWJIGBL_824": {
+			"name": "EntidadVPI"
 		}
 	},
 	"FRMRM": {
@@ -20,11 +28,29 @@
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
 			},
-			"T_RAMASZWCLEZGK_732": {
-				"name": "FormularioDANT"
-      },  
+
+			"T_RAMASIQEUUSIE_883": {
+				"name": "FormularioAFCL"
+			},
+
+			"T_RAMASGTUVFJSM_973": {
+				"name": "FormularioARC"
+      },
+
+			"T_RAMASUGLZUERT_291": {
+				"name": "FormularioVPI"
+			},
+			"T_RAMASIQEUUSIE_883": {
+				"name": "FormularioAFCL"
+			},
+
+			"T_RAMASGTUVFJSM_973": {
+				"name": "FormularioARC"
+      },
+
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
+			}
 		},
 		"Queries": {
 		},
