@@ -3,14 +3,14 @@
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
+		"EN_DGZJBGWBX_771": {
+			"name": "EntidadDGZ"
+    },
 		"EN_DANTPWPWM_883": {
 			"name": "EntidadDANT"
 		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
-		},
-		"EN_JCGRNQHXP_764": {
-			"name": "EntidadJCGR"
 		}
 	},
 	"FRMRM": {
@@ -20,14 +20,11 @@
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
 			},
-<<<<<<< HEAD
 			"T_RAMASZWCLEZGK_732": {
 				"name": "FormularioDANT"
-=======
+      },  
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
->>>>>>> main
-			}
 		},
 		"Queries": {
 		},
