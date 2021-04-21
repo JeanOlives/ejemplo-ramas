@@ -2,6 +2,9 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+<<<<<<< HEAD
+		"EN_MAPLGOHEG_299": {
+=======
 		"EN_AFCL2PRLH_695": {
 			"labels": [
 			]
@@ -55,11 +58,22 @@
 			]
 		},
 		"EN_VPIWJIGBL_824": {
+>>>>>>> 1303b6c62f6d9a1774b4032126bb47f9b56202b2
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
+<<<<<<< HEAD
+		"T_RAMASECWLKROV_360": {
+			"blis": [
+			],
+			"entities": {
+				"EN_MAPLGOHEG_299": [
+					"AT21_NOMBREEG299",
+					"AT35_EDADBOWN299",
+					"AT70_APELLIOD299"
+=======
 		"T_RAMASDVLKQJNM_458": {
 			"blis": [
 			],
@@ -442,6 +456,7 @@
 					"AT38_EDADRQBC632",
 					"AT70_NOMBREJK632",
 					"AT88_APELLIDD632"
+>>>>>>> 1303b6c62f6d9a1774b4032126bb47f9b56202b2
 				]
 			},
 			"externalEntities": {
@@ -451,9 +466,16 @@
 			"header": [
 			],
 			"labels": [
+<<<<<<< HEAD
+				"LBL_RAMAS_APELLIDOO_39429",
+				"LBL_RAMAS_EDADAOHBP_66164",
+				"LBL_RAMAS_NOMBREMLQ_73555",
+				"LBL_RAMAS_SALUDARBY_39436"
+=======
 				"LBL_RAMAS_APELLIDOO_55061",
 				"LBL_RAMAS_EDADZVLVC_81915",
 				"LBL_RAMAS_NOMBREVXT_41612"
+>>>>>>> 1303b6c62f6d9a1774b4032126bb47f9b56202b2
 			],
 			"queries": {
 			},
