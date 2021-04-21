@@ -6,20 +6,15 @@
 			"labels": [
 			]
 		},
-
 		"EN_ARCKLSJBA_750": {
 			"labels": [
 			]
 		},
-    "EN_CLIENTEFL_530": {
+		"EN_CLIENTEFL_530": {
 			"labels": [
 			]
 		},
 		"EN_BDFRJRWGQ_133": {
-			"labels": [
-			]
-		},
-		"EN_CLIENTEFL_530": {
 			"labels": [
 			]
 		},
@@ -95,7 +90,19 @@
 					"AT14_APELLIOO750",
 					"AT19_EDADCNZF750",
 					"AT93_NOMBREDV750"
-          ]
+          ]},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
           },
 		"T_RAMASNSCTIMAB_179": {
 			"blis": [
