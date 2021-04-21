@@ -5,6 +5,9 @@
 		},
 		"EN_DGZJBGWBX_771": {
 			"name": "EntidadDGZ"
+    },
+		"EN_DANTPWPWM_883": {
+			"name": "EntidadDANT"
 		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
@@ -16,7 +19,12 @@
 		"Forms": {
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
-			}
+			},
+			"T_RAMASZWCLEZGK_732": {
+				"name": "FormularioDANT"
+      },  
+			"T_RAMASNSCTIMAB_179": {
+				"name": "FormularioJCGR"
 		},
 		"Queries": {
 		},

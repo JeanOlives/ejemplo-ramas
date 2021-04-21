@@ -2,7 +2,22 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+
 		"EN_BDFRJRWGQ_133": {
+      "labels": [
+			]
+		},
+
+    "EN_CLIENTEFL_530": {
+			"labels": [
+			]
+		},
+		"EN_BDFRJRWGQ_133": {
+			"labels": [
+			]
+		},
+		"EN_DANTPWPWM_883": {
+
 			"labels": [
 			]
 		},
@@ -16,6 +31,47 @@
 		}
 	},
 	"Forms": {
+
+		"T_RAMASTKYQAZXO_756": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEFL_530": [
+					"AT33_EDADAGDW530",
+					"AT66_APELLIOD530",
+					"AT81_NOMBREMP530"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_50951",
+				"LBL_RAMAS_EDADJLPVS_15774",
+				"LBL_RAMAS_GUARDARVL_90628",
+				"LBL_RAMAS_NOMBREEHK_96401"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+
+		"T_RAMASIIISKHOB_950": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DGZJBGWBX_771": [
+					"AT17_EDADXSIU771",
+					"AT45_APELLIDD771",
+					"AT75_NOMBREUB771"
+        ]
+      ,}
+
+
 		"T_RAMASFCBKILOH_733": {
 			"blis": [
 			],
@@ -43,14 +99,26 @@
 			"subForms": [
 			]
 		},
-		"T_RAMASIIISKHOB_950": {
+
+		"T_RAMASZWCLEZGK_732": {
 			"blis": [
 			],
 			"entities": {
-				"EN_DGZJBGWBX_771": [
-					"AT17_EDADXSIU771",
-					"AT45_APELLIDD771",
-					"AT75_NOMBREUB771"
+				"EN_DANTPWPWM_883": [
+					"AT24_APELLIOD883",
+					"AT71_EDADRJVI883",
+					"AT92_NOMBREBR883"
+        ]
+      },
+
+		"T_RAMASNSCTIMAB_179": {
+			"blis": [
+			],
+			"entities": {
+				"EN_JCGRNQHXP_764": [
+					"AT41_APELLIDD764",
+					"AT54_NOMBREMI764",
+					"AT95_EDADJNQB764"
 				]
 			},
 			"externalEntities": {
