@@ -6,6 +6,10 @@
 			"labels": [
 			]
 		},
+		"EN_ARCGIHOAT_861": {
+			"labels": [
+			]
+		},
 		"EN_BDFRJRWGQ_133": {
 			"labels": [
 			]
@@ -32,6 +36,33 @@
 		}
 	},
 	"Forms": {
+		"T_RAMASDVLKQJNM_458": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ARCGIHOAT_861": [
+					"AT15_EDADSVSR861",
+					"AT20_NOMBRELS861",
+					"AT95_APELLIDD861"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_87381",
+				"LBL_RAMAS_EDADNWGOV_48100",
+				"LBL_RAMAS_GUARDARKW_41813",
+				"LBL_RAMAS_NOMBREQJD_61189"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASFCBKILOH_733": {
 			"blis": [
 			],
