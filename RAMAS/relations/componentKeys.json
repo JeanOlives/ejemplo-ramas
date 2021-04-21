@@ -3,6 +3,9 @@
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
+		"EN_DANTPWPWM_883": {
+			"name": "EntidadDANT"
+		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
 		}
@@ -13,6 +16,9 @@
 		"Forms": {
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
+			},
+			"T_RAMASZWCLEZGK_732": {
+				"name": "FormularioDANT"
 			}
 		},
 		"Queries": {
