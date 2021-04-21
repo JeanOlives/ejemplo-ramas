@@ -1,6 +1,41 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_MAPLSALIV_393": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_RAMASUGWJGKLK_852": {
+			"blis": [
+			],
+			"entities": {
+				"EN_MAPLSALIV_393": [
+					"AT13_EDADDJIA393",
+					"AT41_NOMBREOD393",
+					"AT67_APELLIDD393"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_63178",
+				"LBL_RAMAS_EDADKBVMB_67390",
+				"LBL_RAMAS_NOMBREFYR_58869",
+				"LBL_RAMAS_SALUDARTJ_84385"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }

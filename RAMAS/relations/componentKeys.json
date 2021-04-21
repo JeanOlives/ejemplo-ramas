@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_MAPLSALIV_393": {
+			"name": "EntidadMAPL"
+		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASUGWJGKLK_852": {
+				"name": "FormularioMAPL"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
