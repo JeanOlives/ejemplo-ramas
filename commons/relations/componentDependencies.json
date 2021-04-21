@@ -1,6 +1,41 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_ARCMDPZRU_839": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_RAMASAPXFJJCD_386": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ARCMDPZRU_839": [
+					"AT26_APELLIDO839",
+					"AT49_NOMBREFQ839",
+					"AT72_EDADADPV839"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_23492",
+				"LBL_RAMAS_EDADORPWY_67246",
+				"LBL_RAMAS_GUARDARQW_84206",
+				"LBL_RAMAS_NOMBRENPR_33523"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
