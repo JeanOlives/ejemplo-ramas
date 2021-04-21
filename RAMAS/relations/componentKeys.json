@@ -1,12 +1,10 @@
 {
 	"Entities": {
-
 		"EN_AFCLQTCAL_778": {
 			"name": "EntidadAFCL"
-    },
+		},
 		"EN_ARCKLSJBA_750": {
 			"name": "EntidadARC"
-
 		},
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
@@ -28,19 +26,20 @@
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
 			},
-
+			"T_RAMASGTUVFJSM_973": {
+				"name": "FormularioARC"
+			},
 			"T_RAMASIQEUUSIE_883": {
 				"name": "FormularioAFCL"
 			},
-
-			"T_RAMASGTUVFJSM_973": {
-				"name": "FormularioARC"
-      },
-			"T_RAMASUGLZUERT_291": {
-				"name": "FormularioVPI"
-			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
+			},
+			"T_RAMASSGKXYSUM_571": {
+				"name": "FormularioDSY"
+			},
+			"T_RAMASUGLZUERT_291": {
+				"name": "FormularioVPI"
 			}
 		},
 		"Queries": {
