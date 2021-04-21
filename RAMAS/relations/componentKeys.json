@@ -8,6 +8,9 @@
 		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
+		},
+		"EN_JCGRNQHXP_764": {
+			"name": "EntidadJCGR"
 		}
 	},
 	"FRMRM": {
@@ -19,6 +22,9 @@
 			},
 			"T_RAMASGTUVFJSM_973": {
 				"name": "FormularioARC"
+      },
+			"T_RAMASNSCTIMAB_179": {
+				"name": "FormularioJCGR"
 			}
 		},
 		"Queries": {
