@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_PERSONACO_941": {
+			"name": "PersonaJCO"
+		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASLDWZTMGC_163": {
+				"name": "FormularioJCO"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

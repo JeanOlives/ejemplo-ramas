@@ -1,6 +1,41 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_PERSONACO_941": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_RAMASLDWZTMGC_163": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONACO_941": [
+					"AT61_APELLIOD941",
+					"AT62_EDADTZVK941",
+					"AT73_NOMBREZV941"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_38760",
+				"LBL_RAMAS_EDADKKGIX_14049",
+				"LBL_RAMAS_NOMBREKOZ_69477",
+				"LBL_RAMAS_REGISTRAR_23525"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
