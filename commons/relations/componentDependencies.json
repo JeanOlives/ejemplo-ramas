@@ -8,6 +8,33 @@
 		}
 	},
 	"Forms": {
+		"T_RAMASECWLKROV_360": {
+			"blis": [
+			],
+			"entities": {
+				"EN_MAPLGOHEG_299": [
+					"AT21_NOMBREEG299",
+					"AT35_EDADBOWN299",
+					"AT70_APELLIOD299"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_39429",
+				"LBL_RAMAS_EDADAOHBP_66164",
+				"LBL_RAMAS_NOMBREMLQ_73555",
+				"LBL_RAMAS_SALUDARBY_39436"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

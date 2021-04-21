@@ -3,5 +3,18 @@
 		"EN_MAPLGOHEG_299": {
 			"name": "EntidadMAPL"
 		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASECWLKROV_360": {
+				"name": "FormularioMAPL"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
