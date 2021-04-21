@@ -10,11 +10,11 @@
 			"labels": [
 			]
 		},
-		"EN_ARCKLSJBA_750": {
+		"EN_ARCGIHOAT_861": {
 			"labels": [
 			]
 		},
-		"EN_ARCGIHOAT_861": {
+		"EN_ARCKLSJBA_750": {
 			"labels": [
 			]
 		},
@@ -328,6 +328,33 @@
 			"subForms": [
 			]
 		},
+		"T_RAMASSZSEJJCH_140": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ASHVQYXUA_918": [
+					"AT10_EDADLUIX918",
+					"AT45_NOMBREYO918",
+					"AT63_APELLIDO918"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_GUARDARKW_41813",
+				"LBL_RAMAS_NOMBREVXT_41612"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASTKYQAZXO_756": {
 			"blis": [
 			],
@@ -355,32 +382,6 @@
 			"subForms": [
 			]
 		},
-		"T_RAMASVWTCVIYT_973": {
-			"blis": [
-			],
-			"entities": {
-				"EN_DMPPBPSVC_613": [
-					"AT41_APELLIDO613",
-					"AT46_EDADOLYW613",
-					"AT59_NOMBREOJ613"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_RAMAS_APELLIDOO_50951",
-				"LBL_RAMAS_EDADJLPVS_15774",
-				"LBL_RAMAS_NOMBREEHK_96401"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
 		"T_RAMASUGLZUERT_291": {
 			"blis": [
 			],
@@ -401,6 +402,32 @@
 				"LBL_RAMAS_APELLIDOO_82925",
 				"LBL_RAMAS_EDADGJPLI_61573",
 				"LBL_RAMAS_NOMBREDPD_84769"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASVWTCVIYT_973": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DMPPBPSVC_613": [
+					"AT41_APELLIDO613",
+					"AT46_EDADOLYW613",
+					"AT59_NOMBREOJ613"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_50951",
+				"LBL_RAMAS_EDADJLPVS_15774",
+				"LBL_RAMAS_NOMBREEHK_96401"
 			],
 			"queries": {
 			},
