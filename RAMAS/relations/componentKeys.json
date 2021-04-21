@@ -6,6 +6,9 @@
 		"EN_AFCLQTCAL_778": {
 			"name": "EntidadAFCL"
 		},
+		"EN_ARCKLSJBA_750": {
+			"name": "EntidadARC"
+		},
 		"EN_ARCGIHOAT_861": {
 			"name": "EntidadARC"
 		},
@@ -73,6 +76,9 @@
 			},
 			"T_RAMASPEBYVJGI_145": {
 				"name": "FormularioAFCL2"
+			},
+			"T_RAMASSGKXYSUM_571": {
+				"name": "FormularioDSY"
 			},
 			"T_RAMASUGLZUERT_291": {
 				"name": "FormularioVPI"
