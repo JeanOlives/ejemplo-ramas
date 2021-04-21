@@ -13,6 +13,10 @@
 		"EN_JCGRNQHXP_764": {
 			"labels": [
 			]
+		},
+		"EN_LAMPFFGGT_631": {
+			"labels": [
+			]
 		}
 	},
 	"Forms": {
@@ -36,6 +40,32 @@
 				"LBL_RAMAS_APELLIDOO_49498",
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
+				"LBL_RAMAS_NOMBREKBE_19146"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASLCNQJDJT_405": {
+			"blis": [
+			],
+			"entities": {
+				"EN_LAMPFFGGT_631": [
+					"AT16_EDADBBVF631",
+					"AT32_NOMBREYK631",
+					"AT48_APELLIDD631"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_49498",
+				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_NOMBREKBE_19146"
 			],
 			"queries": {

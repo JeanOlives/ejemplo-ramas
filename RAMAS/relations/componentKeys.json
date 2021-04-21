@@ -8,6 +8,9 @@
 		},
 		"EN_JCGRNQHXP_764": {
 			"name": "EntidadJCGR"
+		},
+		"EN_LAMPFFGGT_631": {
+			"name": "EntidadLAMP"
 		}
 	},
 	"FRMRM": {
@@ -16,6 +19,9 @@
 		"Forms": {
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
+			},
+			"T_RAMASLCNQJDJT_405": {
+				"name": "FormularioLAMP"
 			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
