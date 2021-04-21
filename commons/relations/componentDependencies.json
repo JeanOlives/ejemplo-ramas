@@ -1,6 +1,41 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CLIENTEFL_530": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_RAMASTKYQAZXO_756": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEFL_530": [
+					"AT33_EDADAGDW530",
+					"AT66_APELLIOD530",
+					"AT81_NOMBREMP530"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_50951",
+				"LBL_RAMAS_EDADJLPVS_15774",
+				"LBL_RAMAS_GUARDARVL_90628",
+				"LBL_RAMAS_NOMBREEHK_96401"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }

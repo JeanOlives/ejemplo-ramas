@@ -1,10 +1,13 @@
 {
-    "RAMAS": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"RAMAS": {
+		"LBL": {
+			"LBL_RAMAS_APELLIDOO_50951": "Apellido",
+			"LBL_RAMAS_APELLIDSS_94540": "Apellidos",
+			"LBL_RAMAS_EDADJLPVS_15774": "Edad",
+			"LBL_RAMAS_GUARDARVL_90628": "Guardar",
+			"LBL_RAMAS_NOMBREEHK_96401": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }
