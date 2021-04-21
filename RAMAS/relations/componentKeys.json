@@ -1,7 +1,23 @@
 {
 	"Entities": {
+		"EN_BDFRJRWGQ_133": {
+			"name": "EntidadBDF"
+		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
+		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASFCBKILOH_733": {
+				"name": "FormularioBDF"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
 		}
 	}
 }
