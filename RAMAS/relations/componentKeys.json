@@ -6,11 +6,20 @@
 		"EN_AFCLQTCAL_778": {
 			"name": "EntidadAFCL"
 		},
+		"EN_ARCKLSJBA_750": {
+			"name": "EntidadARC"
+		},
 		"EN_ARCGIHOAT_861": {
 			"name": "EntidadARC"
 		},
+		"EN_ASHVQYXUA_918": {
+			"name": "EntidadASH"
+		},
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
+		},
+		"EN_DMPPBPSVC_613": {
+			"name": "EntidadDMP"
 		},
 		"EN_DANTQRAAK_991": {
 			"name": "EntidadDANT"
@@ -26,6 +35,9 @@
 		},
 		"EN_JCOBMSZIE_939": {
 			"name": "EntidadJCO"
+		},
+		"EN_OFVARFCLF_632": {
+			"name": "EntidadOFVA"
 		},
 		"EN_VPIWJIGBL_824": {
 			"name": "EntidadVPI"
@@ -59,11 +71,20 @@
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
 			},
+			"T_RAMASVWTCVIYT_973": {
+				"name": "FormularioDMP"
+			},
 			"T_RAMASPEBYVJGI_145": {
 				"name": "FormularioAFCL2"
 			},
+			"T_RAMASSGKXYSUM_571": {
+				"name": "FormularioDSY"
+			},
 			"T_RAMASUGLZUERT_291": {
 				"name": "FormularioVPI"
+			},
+			"T_RAMASXHEKRLJP_715": {
+				"name": "FormularioOFV"
 			}
 		},
 		"Queries": {

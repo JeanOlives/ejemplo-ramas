@@ -10,7 +10,15 @@
 			"labels": [
 			]
 		},
+		"EN_ARCKLSJBA_750": {
+			"labels": [
+			]
+		},
 		"EN_ARCGIHOAT_861": {
+			"labels": [
+			]
+		},
+		"EN_ASHVQYXUA_918": {
 			"labels": [
 			]
 		},
@@ -26,6 +34,10 @@
 			"labels": [
 			]
 		},
+		"EN_DMPPBPSVC_613": {
+			"labels": [
+			]
+		},
 		"EN_DSYQTOHUW_411": {
 			"labels": [
 			]
@@ -35,6 +47,10 @@
 			]
 		},
 		"EN_JCOBMSZIE_939": {
+			"labels": [
+			]
+		},
+		"EN_OFVARFCLF_632": {
 			"labels": [
 			]
 		},
@@ -92,6 +108,29 @@
 				"LBL_RAMAS_EDADUXDXU_39718",
 				"LBL_RAMAS_GUARDARHZ_54189",
 				"LBL_RAMAS_NOMBREKBE_19146"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASGTUVFJSM_973": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ARCKLSJBA_750": [
+					"AT14_APELLIOO750",
+					"AT19_EDADCNZF750",
+					"AT93_NOMBREDV750"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
 			],
 			"queries": {
 			},
@@ -263,6 +302,32 @@
 			"subForms": [
 			]
 		},
+		"T_RAMASSGKXYSUM_571": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DSYQTOHUW_411": [
+					"AT13_APELLIDO411",
+					"AT32_EDADFVLC411",
+					"AT61_NOMBREUO411"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_46395",
+				"LBL_RAMAS_EDADREQOH_72308",
+				"LBL_RAMAS_NOMBREDPG_78267"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASTKYQAZXO_756": {
 			"blis": [
 			],
@@ -290,6 +355,32 @@
 			"subForms": [
 			]
 		},
+		"T_RAMASVWTCVIYT_973": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DMPPBPSVC_613": [
+					"AT41_APELLIDO613",
+					"AT46_EDADOLYW613",
+					"AT59_NOMBREOJ613"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_50951",
+				"LBL_RAMAS_EDADJLPVS_15774",
+				"LBL_RAMAS_NOMBREEHK_96401"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASUGLZUERT_291": {
 			"blis": [
 			],
@@ -310,6 +401,32 @@
 				"LBL_RAMAS_APELLIDOO_82925",
 				"LBL_RAMAS_EDADGJPLI_61573",
 				"LBL_RAMAS_NOMBREDPD_84769"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASXHEKRLJP_715": {
+			"blis": [
+			],
+			"entities": {
+				"EN_OFVARFCLF_632": [
+					"AT38_EDADRQBC632",
+					"AT70_NOMBREJK632",
+					"AT88_APELLIDD632"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_NOMBREVXT_41612"
 			],
 			"queries": {
 			},
