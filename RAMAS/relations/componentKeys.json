@@ -36,6 +36,9 @@
 		"EN_JCOBMSZIE_939": {
 			"name": "EntidadJCO"
 		},
+		"EN_JESVWEGTD_791": {
+			"name": "EntidadJES"
+		},
 		"EN_OFVARFCLF_632": {
 			"name": "EntidadOFVA"
 		},
@@ -64,6 +67,9 @@
 			},
 			"T_RAMASKIXXPBYA_324": {
 				"name": "FormularioJCO"
+			},
+			"T_RAMASMUTQWFWM_891": {
+				"name": "FormularioJES"
 			},
 			"T_RAMASMXKHLXWX_798": {
 				"name": "FormularioDGZ"
