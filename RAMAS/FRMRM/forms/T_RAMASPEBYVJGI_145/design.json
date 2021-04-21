@@ -13,15 +13,15 @@
 	"id": {
 		"moduleId": "RAMAS",
 		"subModuleId": "FRMRM",
-		"taskId": "T_RAMASGTUVFJSM_973",
+		"taskId": "T_RAMASPEBYVJGI_145",
 		"version": "1.0.0"
 	},
 	"isCustomized": false,
 	"isImported": false,
-	"mainViewContainerId": "VC_ARCBTNWWWX_547973",
+	"mainViewContainerId": "VC_AFCL2FWWAH_907145",
 	"modeEnabled": 4095,
 	"name": {
-		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASGTUVFJSM_973/name"
+		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASPEBYVJGI_145/name"
 	},
 	"setFocus": false,
 	"tempSaveStr": "F",
@@ -40,13 +40,13 @@
 			"id": {
 				"moduleId": "RAMAS",
 				"subModuleId": "FRMRM",
-				"taskId": "T_RAMASGTUVFJSM_973",
+				"taskId": "T_RAMASPEBYVJGI_145",
 				"taskVersion": "1.0.0",
-				"viewContainerId": "VC_ARCBTNWWWX_547973"
+				"viewContainerId": "VC_AFCL2FWWAH_907145"
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
-			"name": "FormularioARC",
+			"name": "FormularioAFCL2",
 			"options": 0,
 			"responsiveLayouts": null,
 			"responsivity": false,
@@ -62,15 +62,15 @@
 						],
 						"enabled": 4095,
 						"entity": {
-							"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#"
+							"$ref": "../../../../RAMAS/entities/EN_AFCL2PRLH_695.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_ARCDPWLWIV_820375",
+						"groupId": "G_AFCL2OBKYM_946434",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1376",
+						"name": "Group1899",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -81,39 +81,8 @@
 							{
 								"aggregate": null,
 								"aggregateId": null,
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"include": 4095,
-								"isCustomized": false,
-								"maxRecords": null,
-								"name": "Spacer1547",
-								"options": 0,
-								"order": 4,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"userControl": {
-									"type": "I",
-									"userControlId": "Spacer"
-								},
-								"visible": 4095,
-								"visualAttributeId": "Spacer1547",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT14_APELLIOO750"
+									"$ref": "../../../../RAMAS/entities/EN_AFCL2PRLH_695.json#/attributes/AT69_NOMBREZS695"
 								},
 								"attributeValidations": [
 								],
@@ -130,99 +99,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_18503"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREVXT_41612"
 									},
-									"labelId": "LBL_RAMAS_APELLIDOO_18503",
-									"moduleId": "RAMAS"
-								},
-								"maxRecords": null,
-								"name": "apellido",
-								"options": 0,
-								"order": 2,
-								"readOnly": 8,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"textRows": 0,
-								"userControl": {
-									"type": "I",
-									"userControlId": "TextInputBox"
-								},
-								"visible": 4095,
-								"visualAttributeId": "VA_APELLIDOALMVIYE_890375",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
-								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT19_EDADCNZF750"
-								},
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"enabled": 4095,
-								"format": "",
-								"include": 4095,
-								"isCustomized": false,
-								"label": {
-									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADKHOGI_67165"
-									},
-									"labelId": "LBL_RAMAS_EDADKHOGI_67165",
-									"moduleId": "RAMAS"
-								},
-								"maxRecords": null,
-								"name": "edad",
-								"options": 0,
-								"order": 3,
-								"readOnly": 8,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"textRows": 0,
-								"userControl": {
-									"type": "I",
-									"userControlId": "TextInputBox"
-								},
-								"visible": 4095,
-								"visualAttributeId": "VA_EDADPYUSKELIUUG_943375",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
-								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT93_NOMBREDV750"
-								},
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"enabled": 4095,
-								"format": "",
-								"include": 4095,
-								"isCustomized": false,
-								"label": {
-									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREWLL_45617"
-									},
-									"labelId": "LBL_RAMAS_NOMBREWLL_45617",
+									"labelId": "LBL_RAMAS_NOMBREVXT_41612",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -240,7 +119,97 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBREELRTXUTVC_879375",
+								"visualAttributeId": "VA_1BMZWRJUFKUHKIW_219434",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../RAMAS/entities/EN_AFCL2PRLH_695.json#/attributes/AT25_APELLIDO695"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_55061"
+									},
+									"labelId": "LBL_RAMAS_APELLIDOO_55061",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_2CACUJZUDNOQWPA_882434",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../RAMAS/entities/EN_AFCL2PRLH_695.json#/attributes/AT57_EDADXZMK695"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADZVLVC_81915"
+									},
+									"labelId": "LBL_RAMAS_EDADZVLVC_81915",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "edad",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_3CIWPGPXLSHTZOV_426434",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -262,15 +231,15 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARHZ_54189"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARKW_41813"
 									},
-									"labelId": "LBL_RAMAS_GUARDARHZ_54189",
+									"labelId": "LBL_RAMAS_GUARDARKW_41813",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONQXCJCCS_169375",
+								"name": "",
 								"options": 0,
-								"order": 5,
+								"order": 4,
 								"queryModule": null,
 								"queryVersion": null,
 								"responsiveLayouts": null,
@@ -282,7 +251,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONQXCJCCS_169375",
+								"visualAttributeId": "VA_VABUTTONPHCVONC_844434",
 								"width": null,
 								"widthComposite": "D"
 							}
@@ -291,7 +260,7 @@
 				],
 				"id": {
 					"version": "1.0.0",
-					"viewId": "VW_ARCGXFGTDN_375"
+					"viewId": "VW_AFCL2AYNXZ_434"
 				},
 				"metadataVersion": "7.2.0.2024 BETA",
 				"modules": [
@@ -299,7 +268,7 @@
 						"moduleId": "RAMAS"
 					}
 				],
-				"name": "View of FormularioARC"
+				"name": "View of FormularioAFCL2"
 			}
 		}
 	]
