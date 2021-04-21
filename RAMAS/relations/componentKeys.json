@@ -39,6 +39,9 @@
 		"EN_JESVWEGTD_791": {
 			"name": "EntidadJES"
 		},
+		"EN_LAMPCNSZO_174": {
+			"name": "EntidadLAMP"
+		},
 		"EN_OFVARFCLF_632": {
 			"name": "EntidadOFVA"
 		},
@@ -52,6 +55,9 @@
 		"Forms": {
 			"T_RAMASDVLKQJNM_458": {
 				"name": "FormularioARC"
+			},
+			"T_RAMASDWSHJPIM_274": {
+				"name": "FormularioLAMP"
 			},
 			"T_RAMASFCBKILOH_733": {
 				"name": "FormularioBDF"
@@ -88,6 +94,9 @@
 			},
 			"T_RAMASSZSEJJCH_140": {
 				"name": "FormularioASH"
+			},
+			"T_RAMASUGLZUERT_291": {
+				"name": "FormularioVPI"
 			},
 			"T_RAMASVWTCVIYT_973": {
 				"name": "FormularioDMP"
