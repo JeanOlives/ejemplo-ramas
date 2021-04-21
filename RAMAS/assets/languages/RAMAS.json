@@ -2,6 +2,7 @@
 	"RAMAS": {
 		"LBL": {
 			"LBL_RAMAS_APEGCMAZM_78054": "ape",
+			"LBL_RAMAS_APELIDOAL_50303": "Apelido",
 			"LBL_RAMAS_APELLIDOO_46395": "Apellido",
 			"LBL_RAMAS_APELLIDOO_55061": "Apellido",
 			"LBL_RAMAS_APELLIDOO_87381": "Apellido:",
@@ -12,7 +13,8 @@
 			"LBL_RAMAS_NOMBREDPG_78267": "Nombre",
 			"LBL_RAMAS_NOMBREQJD_61189": "Nombre:",
 			"LBL_RAMAS_NOMBREVXT_41612": "Nombre",
-			"LBL_RAMAS_REGISTRAR_90177": "Registrar"
+			"LBL_RAMAS_REGISTRAR_90177": "Registrar",
+			"LBL_RAMAS_SALUDARNG_30105": "Saludar"
 		},
 		"MSG": {
 		}
