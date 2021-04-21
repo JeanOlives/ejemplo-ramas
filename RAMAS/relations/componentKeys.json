@@ -1,7 +1,23 @@
 {
 	"Entities": {
+		"EN_ASHRFFXZP_168": {
+			"name": "EntidadASH"
+		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
+		}
+	},
+	"FRMRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_RAMASZUSFQOII_760": {
+				"name": "FromularioASH"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
 		}
 	}
 }

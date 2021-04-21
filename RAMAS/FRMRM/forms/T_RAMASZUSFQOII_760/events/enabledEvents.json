@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONVDUCIXU_237541",
+		"controlName": "VA_VABUTTONVDUCIXU_237541",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 1
+			}
+		],
+		"entityName": "EntidadASH",
+		"eventsType": "visualAttributeEventType"
+	}
+]
