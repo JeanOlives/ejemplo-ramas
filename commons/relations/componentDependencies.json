@@ -2,6 +2,10 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_AFCL2PRLH_695": {
+			"labels": [
+			]
+		},
 		"EN_AFCLQTCAL_778": {
 			"labels": [
 			]
@@ -161,6 +165,33 @@
 				"LBL_RAMAS_GUARDARHZ_54189",
 				"LBL_RAMAS_NOMBREKBE_19146",
 				"LBL_RAMAS_NOMBREWLL_45617"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASPEBYVJGI_145": {
+			"blis": [
+			],
+			"entities": {
+				"EN_AFCL2PRLH_695": [
+					"AT25_APELLIDO695",
+					"AT57_EDADXZMK695",
+					"AT69_NOMBREZS695"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_GUARDARKW_41813",
+				"LBL_RAMAS_NOMBREVXT_41612"
 			],
 			"queries": {
 			},
