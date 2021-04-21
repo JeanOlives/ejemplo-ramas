@@ -54,6 +54,10 @@
 			"labels": [
 			]
 		},
+		"EN_LAMPCNSZO_174": {
+			"labels": [
+			]
+		},
 		"EN_OFVARFCLF_632": {
 			"labels": [
 			]
@@ -85,6 +89,32 @@
 				"LBL_RAMAS_EDADNWGOV_48100",
 				"LBL_RAMAS_GUARDARKW_41813",
 				"LBL_RAMAS_NOMBREQJD_61189"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASDWSHJPIM_274": {
+			"blis": [
+			],
+			"entities": {
+				"EN_LAMPCNSZO_174": [
+					"AT18_EDADCRMF174",
+					"AT35_APELLIOO174",
+					"AT46_NOMBREAQ174"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_46395",
+				"LBL_RAMAS_EDADREQOH_72308",
+				"LBL_RAMAS_NOMBREDPG_78267"
 			],
 			"queries": {
 			},
