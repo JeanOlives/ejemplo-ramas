@@ -3,6 +3,9 @@
 		"EN_BDFRJRWGQ_133": {
 			"name": "EntidadBDF"
 		},
+		"EN_DMPPBPSVC_613": {
+			"name": "EntidadDMP"
+		},
 		"EN_DSYQTOHUW_411": {
 			"name": "EntidadDSY"
 		},
@@ -19,6 +22,9 @@
 			},
 			"T_RAMASNSCTIMAB_179": {
 				"name": "FormularioJCGR"
+			},
+			"T_RAMASVWTCVIYT_973": {
+				"name": "FormularioDMP"
 			}
 		},
 		"Queries": {
