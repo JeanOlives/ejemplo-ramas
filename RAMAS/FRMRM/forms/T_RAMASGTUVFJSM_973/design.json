@@ -93,7 +93,7 @@
 								"include": 4095,
 								"isCustomized": false,
 								"maxRecords": null,
-								"name": "Spacer2824",
+								"name": "Spacer1547",
 								"options": 0,
 								"order": 4,
 								"responsiveLayouts": null,
@@ -105,7 +105,7 @@
 									"userControlId": "Spacer"
 								},
 								"visible": 4095,
-								"visualAttributeId": "Spacer2824",
+								"visualAttributeId": "Spacer1547",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -158,7 +158,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT19_EDADYWBX750"
+									"$ref": "../../../../RAMAS/entities/EN_ARCKLSJBA_750.json#/attributes/AT19_EDADCNZF750"
 								},
 								"attributeValidations": [
 								],
@@ -195,7 +195,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADEPQOZFTUJIZ_338375",
+								"visualAttributeId": "VA_EDADPYUSKELIUUG_943375",
 								"width": null,
 								"widthComposite": "D"
 							},
