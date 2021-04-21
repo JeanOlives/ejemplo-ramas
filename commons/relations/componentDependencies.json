@@ -102,6 +102,113 @@
 			"subForms": [
 			]
 		},
+		"T_RAMASHEIAETCL_142": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DANTQRAAK_991": [
+					"AT28_NOMBRETK991",
+					"AT31_EDADAQMU991",
+					"AT82_APELLIOO991"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_GUARDARKW_41813",
+				"LBL_RAMAS_NOMBREVXT_41612"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASIQEUUSIE_883": {
+			"blis": [
+			],
+			"entities": {
+				"EN_AFCLQTCAL_778": [
+					"AT37_APELLIDO778",
+					"AT90_NOMBREKL778",
+					"AT97_EDADSJRS778"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_50951",
+				"LBL_RAMAS_EDADJLPVS_15774",
+				"LBL_RAMAS_GUARDARVL_90628",
+				"LBL_RAMAS_NOMBREEHK_96401"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASKIXXPBYA_324": {
+			"blis": [
+			],
+			"entities": {
+				"EN_JCOBMSZIE_939": [
+					"AT21_APELLIDD939",
+					"AT25_EDADHUPJ939",
+					"AT59_NOMBREZS939"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_NOMBREVXT_41612",
+				"LBL_RAMAS_REGISTRAR_90177"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_RAMASMXKHLXWX_798": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DGZBFJKWX_480": [
+					"AT35_NOMBREHJ480",
+					"AT66_APELLIOO480",
+					"AT79_EDADROIL480"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_RAMAS_APELLIDOO_55061",
+				"LBL_RAMAS_EDADZVLVC_81915",
+				"LBL_RAMAS_NOMBREVXT_41612"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_RAMASNSCTIMAB_179": {
 			"blis": [
 			],
