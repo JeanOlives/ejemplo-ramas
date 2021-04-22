@@ -1,10 +1,6 @@
 {
 	"RAMAS": {
 		"LBL": {
-			"LBL_RAMAS_APELLIDOO_63178": "Apellido",
-			"LBL_RAMAS_EDADKBVMB_67390": "Edad",
-			"LBL_RAMAS_NOMBREFYR_58869": "Nombre",
-			"LBL_RAMAS_SALUDARTJ_84385": "Saludar",
 			"LBL_RAMAS_APEGCMAZM_78054": "ape",
 			"LBL_RAMAS_APELLIDOO_46395": "Apellido",
 			"LBL_RAMAS_APELLIDOO_49498": "Apellido",
@@ -29,6 +25,4 @@
 		"MSG": {
 		}
 	}
-}
-=======
 }
