@@ -1,8 +1,5 @@
 {
 	"Entities": {
-		"EN_MAPLSALIV_393": {
-			"name": "EntidadMAPL"
-    },
 		"EN_AFCL2PRLH_695": {
 			"name": "EntidadAFCL2"
 		},
@@ -56,9 +53,6 @@
 		"CompositeForms": {
 		},
 		"Forms": {
-			"T_RAMASUGWJGKLK_852": {
-				"name": "FormularioMAPL"
-      },
 			"T_RAMASDVLKQJNM_458": {
 				"name": "FormularioARC"
 			},
