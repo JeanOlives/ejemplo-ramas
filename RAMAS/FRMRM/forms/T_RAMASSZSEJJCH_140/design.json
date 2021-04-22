@@ -13,15 +13,15 @@
 	"id": {
 		"moduleId": "RAMAS",
 		"subModuleId": "FRMRM",
-		"taskId": "T_RAMASVWTCVIYT_973",
+		"taskId": "T_RAMASSZSEJJCH_140",
 		"version": "1.0.0"
 	},
 	"isCustomized": false,
 	"isImported": false,
-	"mainViewContainerId": "VC_DMPOBKUVSL_759973",
+	"mainViewContainerId": "VC_ASHGYPADSO_465140",
 	"modeEnabled": 4095,
 	"name": {
-		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASVWTCVIYT_973/name"
+		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASSZSEJJCH_140/name"
 	},
 	"setFocus": false,
 	"tempSaveStr": "F",
@@ -40,13 +40,13 @@
 			"id": {
 				"moduleId": "RAMAS",
 				"subModuleId": "FRMRM",
-				"taskId": "T_RAMASVWTCVIYT_973",
+				"taskId": "T_RAMASSZSEJJCH_140",
 				"taskVersion": "1.0.0",
-				"viewContainerId": "VC_DMPOBKUVSL_759973"
+				"viewContainerId": "VC_ASHGYPADSO_465140"
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
-			"name": "FormularioDMP",
+			"name": "FormularioASH",
 			"options": 0,
 			"responsiveLayouts": null,
 			"responsivity": false,
@@ -62,15 +62,15 @@
 						],
 						"enabled": 4095,
 						"entity": {
-							"$ref": "../../../../RAMAS/entities/EN_DMPPBPSVC_613.json#"
+							"$ref": "../../../../RAMAS/entities/EN_ASHVQYXUA_918.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_DMPMBKGEAH_963736",
+						"groupId": "G_ASHHCPPMIL_169219",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1885",
+						"name": "Group1245",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -82,7 +82,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_DMPPBPSVC_613.json#/attributes/AT41_APELLIDO613"
+									"$ref": "../../../../RAMAS/entities/EN_ASHVQYXUA_918.json#/attributes/AT63_APELLIDO918"
 								},
 								"attributeValidations": [
 								],
@@ -99,9 +99,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_50951"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_55061"
 									},
-									"labelId": "LBL_RAMAS_APELLIDOO_50951",
+									"labelId": "LBL_RAMAS_APELLIDOO_55061",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -119,7 +119,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_APELLIDODEITAFX_365736",
+								"visualAttributeId": "VA_APELLIDOPHINYKM_541219",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -127,7 +127,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_DMPPBPSVC_613.json#/attributes/AT46_EDADOLYW613"
+									"$ref": "../../../../RAMAS/entities/EN_ASHVQYXUA_918.json#/attributes/AT10_EDADLUIX918"
 								},
 								"attributeValidations": [
 								],
@@ -144,9 +144,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADJLPVS_15774"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADZVLVC_81915"
 									},
-									"labelId": "LBL_RAMAS_EDADJLPVS_15774",
+									"labelId": "LBL_RAMAS_EDADZVLVC_81915",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -164,7 +164,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADEBFWFWZNFAT_920736",
+								"visualAttributeId": "VA_EDADWUMKQUEGVEG_885219",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -172,7 +172,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../RAMAS/entities/EN_DMPPBPSVC_613.json#/attributes/AT59_NOMBREOJ613"
+									"$ref": "../../../../RAMAS/entities/EN_ASHVQYXUA_918.json#/attributes/AT45_NOMBREYO918"
 								},
 								"attributeValidations": [
 								],
@@ -189,9 +189,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREEHK_96401"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREVXT_41612"
 									},
-									"labelId": "LBL_RAMAS_NOMBREEHK_96401",
+									"labelId": "LBL_RAMAS_NOMBREVXT_41612",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
@@ -209,7 +209,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBREFLCVWLMVD_654736",
+								"visualAttributeId": "VA_NOMBREHRGBYSTMA_485219",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -231,13 +231,13 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARVL_90628"
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARKW_41813"
 									},
-									"labelId": "LBL_RAMAS_GUARDARVL_90628",
+									"labelId": "LBL_RAMAS_GUARDARKW_41813",
 									"moduleId": "RAMAS"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONMRHDRQB_151736",
+								"name": "VA_VABUTTONNSBJDMZ_986219",
 								"options": 0,
 								"order": 4,
 								"queryModule": null,
@@ -251,7 +251,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONMRHDRQB_151736",
+								"visualAttributeId": "VA_VABUTTONNSBJDMZ_986219",
 								"width": null,
 								"widthComposite": "D"
 							}
@@ -260,7 +260,7 @@
 				],
 				"id": {
 					"version": "1.0.0",
-					"viewId": "VW_DMPETCCXVU_736"
+					"viewId": "VW_ASHZSNOOGF_219"
 				},
 				"metadataVersion": "7.2.0.2024 BETA",
 				"modules": [
@@ -268,7 +268,7 @@
 						"moduleId": "RAMAS"
 					}
 				],
-				"name": "View of FormularioDMP"
+				"name": "View of FormularioASH"
 			}
 		}
 	]
