@@ -212,6 +212,48 @@
 								"visualAttributeId": "VA_NOMBREFLCVWLMVD_654736",
 								"width": null,
 								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_GUARDARVL_90628"
+									},
+									"labelId": "LBL_RAMAS_GUARDARVL_90628",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONMRHDRQB_151736",
+								"options": 0,
+								"order": 4,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONMRHDRQB_151736",
+								"width": null,
+								"widthComposite": "D"
 							}
 						]
 					}
